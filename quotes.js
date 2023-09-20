@@ -215,7 +215,10 @@ var quotes = [
 	'The gods that we\'ve made are exactly the gods you\'d expect to be made by a species that\'s about half a chromosome away from being chimpanzee',
 	'Bankers are looting the world. You\'re not in the middle of a recession; you\'re in the middle of a robbery | Frankie Boyle',
 	'A lot of people who think they hate reading, but they actually just hate bad writing',
-	'C\'est pas parce qu\'ils sont nombreux à avoir tort qu\'ils ont raison | Coluche'
+	'C\'est pas parce qu\'ils sont nombreux à avoir tort qu\'ils ont raison | Coluche',
+	'Did you ask a good question today? | Isidor Isaac Rabi',
+	'A fine is a tax for doing wrong. A tax is a fine for doing well',
+	'Tradition is not the worship of ashes, but the preservation of fire | Gustav Mahler'
 ]
 
 function newQuote() {
