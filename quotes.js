@@ -218,7 +218,25 @@ var quotes = [
 	'C\'est pas parce qu\'ils sont nombreux à avoir tort qu\'ils ont raison | Coluche',
 	'Did you ask a good question today? | Isidor Isaac Rabi',
 	'A fine is a tax for doing wrong. A tax is a fine for doing well',
-	'Tradition is not the worship of ashes, but the preservation of fire | Gustav Mahler'
+	'Tradition is not the worship of ashes, but the preservation of fire | Gustav Mahler',
+	'Chance fights ever on the side of the prudents | Euripides',
+	'Everything that used to be a sin is now a disease | Bill Maher',
+	'I want to live my life, not record it | Jacqueline Lee Kennedy Onassis',
+	'Vous parlez a une pièce de porcelaine',
+	'Never forget to indicate the creation date and the modification dates',
+	'In a world without growth, everything becomes a zero-sum game | Peter Thiel',
+	'Keep your friends close, and your enemies closer',
+	'The United States can pay any debt because we can always print money to do that | Alan Greenspan',
+	'Il faudrait bien faire avant d\'avoir appris | Kevin Finel',
+	'Il faut avoir déjà beaucoup appris de choses pour savoir demander ce qu\'on ne sait pas | Jean-Jacques Rousseau',
+	'I work for money. If you want loyalty, hire a dog',
+	'Economic growth is not a cure-all, but lack of growth is a kill-all | Paul Collier',
+	'We believe the market economy is a discovery machine, a form of intelligence – an exploratory, evolutionary, adaptive system | Marc Andreessen',
+	'We don\'t care, because we don\'t have to',
+	'There will come a point where no job is needed... AI will be able to do everything | Elon Musk',
+	'Dans les siècles de l\'ignorance, les hommes se sont fait la guerre ; dans le siècle le plus éclairé, ils veulent se détruire | Marie-Olympe de Gouges',
+	'Bitcoin is like throwing a stink ball into a recipe that\'s been around for a long time, that\'s worked very well for a lot of people |  Charlie Munger',
+	'One day on Venus is longer than one year on Venus'
 ]
 
 function newQuote() {
