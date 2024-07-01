@@ -282,7 +282,8 @@ var quotes = [
 	'I don\'t mind coming to work, but waiting 8 hours to go home is bulls***! | Don Ho ',
 	'The difficulty lies not so much in developing new ideas as in escaping from old ones | John Maynard Keynes',
 	'If you ever feel down, just remember, you\'re closer to being a millionaire than Elon Musk',
-	'In this life, the brave ones die, the smart ones go crazy and the world remains full of happy fools'
+	'In this life, the brave ones die, the smart ones go crazy and the world remains full of happy fools',
+	'Showing your emotions to people is like bleeding next to a shark'
 ]
 	
 
