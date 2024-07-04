@@ -285,7 +285,8 @@ var quotes = [
 	'In this life, the brave ones die, the smart ones go crazy and the world remains full of happy fools',
 	'Showing your emotions to people is like bleeding next to a shark',
 	'La connaissance, c\'est de savoir que la tomate est un fruit... La sagesse, c\'est de ne pas en mettre dans la salade de fruits !',
-	'The worst prison in the world is a home without peace | Johnny Depp'
+	'The worst prison in the world is a home without peace | Johnny Depp',
+	'For innovation to succeed, you often have to be willing to compete with yourself'
 ]
 	
 
