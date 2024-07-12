@@ -288,7 +288,8 @@ var quotes = [
 	'The worst prison in the world is a home without peace | Johnny Depp',
 	'For innovation to succeed, you often have to be willing to compete with yourself',
 	'Panem et circenses | Juvenal',
-	'I am not a product of my circumstances. I am a product of my decisions | Stephen R. Covey'
+	'I am not a product of my circumstances. I am a product of my decisions | Stephen R. Covey',
+	'Wisdom has been chasing you, but you have always been faster'
 ]
 	
 
