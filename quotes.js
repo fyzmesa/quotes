@@ -289,7 +289,8 @@ var quotes = [
 	'For innovation to succeed, you often have to be willing to compete with yourself',
 	'Panem et circenses | Juvenal',
 	'I am not a product of my circumstances. I am a product of my decisions | Stephen R. Covey',
-	'Wisdom has been chasing you, but you have always been faster'
+	'Wisdom has been chasing you, but you have always been faster',
+	'Birds born in a cage think flying is an illness| Alejandro Jodorowsky'
 ]
 	
 
