@@ -290,7 +290,8 @@ var quotes = [
 	'Panem et circenses | Juvenal',
 	'I am not a product of my circumstances. I am a product of my decisions | Stephen R. Covey',
 	'Wisdom has been chasing you, but you have always been faster',
-	'Birds born in a cage think flying is an illness| Alejandro Jodorowsky'
+	'Birds born in a cage think flying is an illness| Alejandro Jodorowsky',
+	'Statistics is the grammar of science | Karl Pearson'
 ]
 	
 
