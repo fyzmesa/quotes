@@ -292,7 +292,8 @@ var quotes = [
 	'Wisdom has been chasing you, but you have always been faster',
 	'Birds born in a cage think flying is an illness | Alejandro Jodorowsky',
 	'Statistics is the grammar of science | Karl Pearson',
-	'Maudite soit la guerre et ses auteurs'
+	'Maudite soit la guerre et ses auteurs',
+	'Buy the truth and do not sell it | Proverbs 23:23'
 ]
 	
 
